@@ -3,6 +3,8 @@ This GNU Radio Companion project demonstrates how a sinusoidal signal can be vis
 
 How to Run
 Steps:
+Download GNU Radio Companion 
+
 Open GNU Radio Companion
 
 Load the .grc file (File > Open)
